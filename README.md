@@ -6,7 +6,7 @@ PulseCalc
 
 <i>The most minimalistic calculator app around!</i>
 
-As with my other two apps, this was created in the <b>process of learning Android development.</b> This calculator app comes from a Graphics designer new to the Android app development scene, <b>thus it is very clean and polished.</b> 
+As with my previous two apps, this was created in the <b>process of learning Android development.</b> This calculator app comes from a Graphics designer new to the Android app development scene, <b>thus it is very clean and polished.</b> 
 
 <a href="https://drive.google.com/file/d/0ByFF6rgTjelEOWMtaEUySkt1YzQ/edit?usp=sharing">
   <img alt="Get PulseCalc" vspace="0"
