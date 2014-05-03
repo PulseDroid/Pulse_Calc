@@ -1,10 +1,19 @@
-Pulse_Calc
+PulseCalc
 ==========
 
-Minimalistic Calculator app!
+<img alt="PulseCalc Preview" align="right" height="500"
+   src="http://i.imgur.com/FvYCS1Y.png" />
 
-The main source code is available, I did not share the graphics, nor styling files. Feel free to use the code, but please do not recreate my app, or something very similar and then share it publicly.
+<i>The most minimalistic calculator app around!</i>
 
-This app was created by me, PulseDroid in the process of learning to create Android apps. I am a 14 year old: Graphic / Web Design, Video editing and Android Development enthusiast.
+As with my other two apps, this was created in the <b>process of learning Android development.</b> This calculator app comes from a Graphics designer new to the Android app development scene, <b>thus it is very clean and polished.</b> 
 
-It's serves as a very minimalistic Calculator, using the vanila Android guidelines to make it beautiful.
+<a href="https://drive.google.com/file/d/0ByFF6rgTjelEOWMtaEUySkt1YzQ/edit?usp=sharing">
+  <img alt="Get PulseCalc" vspace="0"
+       src="http://i.imgur.com/kXr4CXP.png" />
+</a>
+
+<a href="http://forum.xda-developers.com/showthread.php?p=52364973">
+  <img alt="XDA Thread" vspace="0" align="center"
+       src="http://i.imgur.com/HkhJ7cp.png" />
+</a>
